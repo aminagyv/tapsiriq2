@@ -10,7 +10,7 @@ public class Main {
         Member member=new Member();
         member.fullName="Amin Agayev";
         member.age=20;
-        member.memberId="1";
+        member.memberId="1A";
         member.borrowBook("riyaziyyat");
 
 
