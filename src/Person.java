@@ -12,7 +12,9 @@ public class Person {
     public void printInfo(){
         System.out.println("fullName: "+fullName);
         System.out.println("age: "+age);
+
     }
 
 
 }
+//deyisikliketdim
